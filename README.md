@@ -24,9 +24,9 @@ According to the performance measurement, the best preprocessing methods are Wor
 
 Text preprocessing can make a huge difference depending on the data and use-case. In our case preprocessing has no impact or made it worse.
 
-In some cases the trained modell has high socre values but the confusion matrix shows that the model dose not detect spam messages. The reason for that is, that the dataset is unbalanced. In the dataset there are 87% ham messages and only 13% are spammessages.
+In some cases, the trained model has high score values but the confusion matrix shows that the model does not detect spam messages. The reason for that is that the dataset is unbalanced. In the dataset there are 87% ham messages and only 13% are spam messages.
 
-Acording to the analysis made width LIME the words that indicate ham and spam are the following:
+According to the analysis made width LIME the words that indicate ham and spam are the following:
 
 **ham**
 - good
