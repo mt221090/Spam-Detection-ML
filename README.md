@@ -18,7 +18,6 @@ Develop an automated system that can accurately classify incoming SMS messages a
 ### Research Question
 What impact do text pre-processing methods have on the performance of SMS spam classification models with SMS spam collection Dataset?
 
----
 
 ## Discussion & Conclusion
 According to the performance measurement, the best preprocessing methods are WordNertLemmentazier/No Preprocessing together with Support Vector classifier model.
@@ -49,7 +48,6 @@ Acording to the analysis made width LIME the words that indicate ham and spam ar
 - win
 - until
 
----
 
 ## Links
 Original Dataset: [https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/data](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/data)
